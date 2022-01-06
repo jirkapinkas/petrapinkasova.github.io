@@ -1,0 +1,3 @@
+Sitemap: https://petrapinkasova.cz/sitemap.xml
+User-agent: *
+Allow: /
